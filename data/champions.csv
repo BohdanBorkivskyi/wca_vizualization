@@ -1,0 +1,430 @@
+personName,personId,personCountryId,year
+Łukasz Ciałoń,2005CIAL02,Poland,2007
+Milán Baticz,2005BATI01,Hungary,2007
+Mátyás Kuti,2006KUTI01,Hungary,2007
+Rafał Guzewicz,2006GUZE01,Poland,2007
+Bernett Orlando,2006ORLA01,India,2007
+Sinpei Araki (荒木慎平),2006ARAK01,Japan,2007
+Chris Hardwick,2003HARD01,USA,2007
+Dror Vomberg,2003VOMB01,Israel,2007
+Yumu Tabuchi (田渕雄夢),2006TABU02,Japan,2007
+Bernett Orlando,2006ORLA01,India,2007
+Chris Hardwick,2003HARD01,USA,2007
+Dror Vomberg,2003VOMB01,Israel,2007
+István Kocza,2005KOCZ01,Hungary,2007
+Daniel Beyer,2006BEYE01,USA,2007
+Rafał Guzewicz,2006GUZE01,Poland,2007
+Mátyás Kuti,2006KUTI01,Hungary,2007
+John Louis,2006LOUI01,India,2007
+Ryosuke Mondo (門戸良介),2006MOND01,Japan,2007
+Róbert Örkényi,2006ORKE01,Hungary,2007
+Mátyás Kuti,2006KUTI01,Hungary,2007
+Tim Reynolds,2005REYN01,USA,2007
+Máté Horváth,2007HORV01,Hungary,2007
+Mátyás Kuti,2006KUTI01,Hungary,2007
+Bálint Horváth,2007HORV02,Hungary,2007
+Yu Nakajima (中島悠),2007NAKA03,Japan,2007
+Andrew Kang,2006KANG01,USA,2007
+Mitsuki Gunji (郡司光貴),2006GUNJ01,Japan,2007
+Rafał Guzewicz,2006GUZE01,Poland,2007
+Shotaro Makisumi (牧角章太郎),2003MAKI01,Japan,2007
+Tyson Mao (毛台勝),2004MAOT02,USA,2007
+Zbigniew Zborowski,2003ZBOR02,Poland,2007
+Yumu Tabuchi (田渕雄夢),2006TABU02,Japan,2007
+Piotr Kózka,2005KOZK01,Poland,2007
+Anssi Vanhala,2005VANH01,Finland,2007
+Erik Akkersdijk,2005AKKE01,Netherlands,2007
+Oliver Wolff,2004WOLF01,Germany,2007
+Ryan Patricio,2004PATR01,USA,2007
+Milán Baticz,2005BATI01,Hungary,2007
+Dan Dzoan,2006DZOA03,USA,2007
+Mátyás Kuti,2006KUTI01,Hungary,2007
+Milán Baticz,2005BATI01,Hungary,2007
+Erik Akkersdijk,2005AKKE01,Netherlands,2007
+Mátyás Kuti,2006KUTI01,Hungary,2007
+Frédérick Badie,2003BADI01,France,2007
+Takayuki Ookusa (大艸尊之),2006OOKU01,Japan,2007
+Olivér Perge,2007PERG01,Hungary,2009
+Bálint Bodor,2008BODO01,Hungary,2009
+Máté Horváth,2007HORV01,Hungary,2009
+Máté Horváth,2007HORV01,Hungary,2009
+Milán Baticz,2005BATI01,Hungary,2009
+Piotr Michał Padlewski,2008PADL01,Poland,2009
+Rowe Hessler,2007HESS01,USA,2009
+Edouard Chambon,2004CHAM01,France,2009
+Łukasz Ciałoń,2005CIAL02,Poland,2009
+Breandan Vallance,2007VALL01,United Kingdom,2009
+Erik Akkersdijk,2005AKKE01,Netherlands,2009
+Tomasz Żołnowski,2005ZOLN01,Poland,2009
+Yumu Tabuchi (田渕雄夢),2006TABU02,Japan,2009
+Shuhei Omura (大村周平),2007OMUR01,Japan,2009
+Rowe Hessler,2007HESS01,USA,2009
+Shuhei Omura (大村周平),2007OMUR01,Japan,2009
+Durben Joun Virtucio,2008VIRT01,Philippines,2009
+Erik Akkersdijk,2005AKKE01,Netherlands,2009
+Dan Cohen,2007COHE01,USA,2009
+Erik Akkersdijk,2005AKKE01,Netherlands,2009
+Michał Halczuk,2006HALC01,Poland,2009
+Guillain Potron,2008POTR01,France,2009
+Rafał Guzewicz,2006GUZE01,Poland,2009
+Timothy Sun,2007SUNT01,USA,2009
+Rafał Guzewicz,2006GUZE01,Poland,2009
+Chris Hardwick,2003HARD01,USA,2009
+Ryosuke Mondo (門戸良介),2006MOND01,Japan,2009
+Tim Habermaas,2007HABE01,Germany,2009
+Dennis Strehlau,2007STRE01,Germany,2009
+Timothy Sun,2007SUNT01,USA,2009
+Olivér Perge,2007PERG01,Hungary,2009
+Yumu Tabuchi (田渕雄夢),2006TABU02,Japan,2009
+Bence Barát,2008BARA01,Hungary,2009
+Maarten Smit,2008SMIT04,Netherlands,2009
+Yumu Tabuchi (田渕雄夢),2006TABU02,Japan,2009
+Erik Akkersdijk,2005AKKE01,Netherlands,2009
+Timothy Sun,2007SUNT01,USA,2009
+Kai Jiptner,2007JIPT01,Germany,2009
+Yumu Tabuchi (田渕雄夢),2006TABU02,Japan,2009
+Chris Hardwick,2003HARD01,USA,2009
+Minh Thai,1982THAI01,USA,1982
+Guus Razoux Schultz,1982RAZO01,Netherlands,1982
+Zoltán Lábas,1982LABA01,Hungary,1982
+Dan Knights,2003KNIG01,USA,2003
+Jessica Fridrich,1982FRID01,USA,2003
+David Wesley,2003WESL01,Sweden,2003
+Dror Vomberg,2003VOMB01,Israel,2003
+Shotaro Makisumi (牧角章太郎),2003MAKI01,Japan,2003
+Chris Hardwick,2003HARD01,USA,2003
+Michael Atkinson,2003ATKI01,USA,2003
+Grant Tregay,2003TREG02,USA,2003
+Masayuki Akimoto (秋元正行),2003AKIM01,Japan,2003
+David Wesley,2003WESL01,Sweden,2003
+Ron van Bruchem,2003BRUC01,Netherlands,2003
+Dror Vomberg,2003VOMB01,Israel,2003
+Masayuki Akimoto (秋元正行),2003AKIM01,Japan,2003
+David Wesley,2003WESL01,Sweden,2003
+Grant Tregay,2003TREG02,USA,2003
+Jaap Scherphuis,2003SCHE01,Netherlands,2003
+Jasmine Lee,2003LEEJ01,Australia,2003
+Lars Vandenbergh,2003VAND01,Belgium,2003
+Jaap Scherphuis,2003SCHE01,Netherlands,2003
+Jake Rueth,2003RUET01,USA,2003
+Jon Morris,2003MORR02,USA,2003
+Jaap Scherphuis,2003SCHE01,Netherlands,2003
+Kevin Brandon,2003BRAN02,USA,2003
+Kenneth Brandon,2003BRAN01,USA,2003
+Grant Tregay,2003TREG02,USA,2003
+Richard Patterson,2003PATT01,USA,2003
+Ron van Bruchem,2003BRUC01,Netherlands,2003
+Andy Bellenir,2003BELL01,USA,2003
+Jake Rueth,2003RUET01,USA,2003
+Jeff Goetz,2003GOET01,USA,2003
+Lars Vandenbergh,2003VAND01,Belgium,2003
+Jeff Goetz,2003GOET01,USA,2003
+Ron van Bruchem,2003BRUC01,Netherlands,2003
+Jean Pons,2004PONS01,France,2005
+Edouard Chambon,2004CHAM01,France,2005
+Shotaro Makisumi (牧角章太郎),2003MAKI01,Japan,2005
+Lars Petrus,1982PETR01,Sweden,2005
+Per Kristen Fredlund,2004FRED02,Norway,2005
+Alexander Ooms,2005OOMS01,Netherlands,2005
+Yuki Hayashi (林祐樹),2005HAYA01,Japan,2005
+Lars Vandenbergh,2003VAND01,Belgium,2005
+Chris Hardwick,2003HARD01,USA,2005
+Frank Morris,2003MORR01,USA,2005
+Lars Vandenbergh,2003VAND01,Belgium,2005
+Ron van Bruchem,2003BRUC01,Netherlands,2005
+Ryan Patricio,2004PATR01,USA,2005
+Shotaro Makisumi (牧角章太郎),2003MAKI01,Japan,2005
+Chris Hardwick,2003HARD01,USA,2005
+Stefan Pochmann,2003POCH01,Germany,2005
+Alexander Ooms,2005OOMS01,Netherlands,2005
+Ernesto Fernández Regueira,2004FERN01,Spain,2005
+Alexander Ooms,2005OOMS01,Netherlands,2005
+Stefan Pochmann,2003POCH01,Germany,2005
+Bob Burton,2003BURT01,USA,2005
+Lars Vandenbergh,2003VAND01,Belgium,2005
+Richard Patterson,2003PATT01,USA,2005
+Joël van Noort,2004NOOR01,Netherlands,2005
+Stefan Pochmann,2003POCH01,Germany,2005
+Grant Tregay,2003TREG02,USA,2005
+David Barr,2003BARR01,USA,2005
+Masayuki Akimoto (秋元正行),2003AKIM01,Japan,2005
+Joël van Noort,2004NOOR01,Netherlands,2005
+Leyan Lo,2004LOLE01,USA,2005
+Oliver Wolff,2004WOLF01,Germany,2005
+Lee Jun-Kyo,2005JUNK01,Korea,2005
+Chris Szlatenyi,2005SZLA01,USA,2005
+Leyan Lo,2004LOLE01,USA,2005
+Tyson Mao (毛台勝),2004MAOT02,USA,2005
+Jean Pons,2004PONS01,France,2005
+Dror Vomberg,2003VOMB01,Israel,2005
+Stefan Pochmann,2003POCH01,Germany,2005
+Dror Vomberg,2003VOMB01,Israel,2005
+Stefan Pochmann,2003POCH01,Germany,2005
+Bob Burton,2003BURT01,USA,2005
+Alexander Ooms,2005OOMS01,Netherlands,2005
+Mirek Goljan,2003GOLJ01,Czech Republic,2003
+David Barr,2003BARR01,USA,2003
+Dan Knights,2003KNIG01,USA,2003
+Sinpei Araki (荒木慎平),2006ARAK01,Japan,2007
+Bernett Orlando,2006ORLA01,India,2007
+Rafał Guzewicz,2006GUZE01,Poland,2007
+Michał Pleskowicz,2009PLES01,Poland,2011
+Rowe Hessler,2007HESS01,USA,2011
+Feliks Zemdegs,2009ZEMD01,Australia,2011
+Feliks Zemdegs,2009ZEMD01,Australia,2011
+Giovanni Contardi,2009CONT01,Italy,2011
+Mats Valk,2007VALK01,Netherlands,2011
+Feliks Zemdegs,2009ZEMD01,Australia,2011
+Dan Cohen,2007COHE01,USA,2011
+Yu Nakajima (中島悠),2007NAKA03,Japan,2011
+Feliks Zemdegs,2009ZEMD01,Australia,2011
+Michał Pleskowicz,2009PLES01,Poland,2011
+Nipat Charoenpholphant (นิพัฒน์ เจริญพลพันธุ์),2009CHAR03,Thailand,2011
+Zane Carney,2010CARN01,Australia,2011
+Yuhui Xu (许宇辉),2007XUYU01,China,2011
+Muhammad Iril Khairul Anam,2009ANAM01,Indonesia,2011
+Arifumi Fushimi (伏見有史),2009FUSH01,Japan,2011
+Yumu Tabuchi (田渕雄夢),2006TABU02,Japan,2011
+Nipat Charoenpholphant (นิพัฒน์ เจริญพลพันธุ์),2009CHAR03,Thailand,2011
+Sébastien Auroux,2008AURO01,Germany,2011
+Milán Baticz,2005BATI01,Hungary,2011
+Daniel Sheppard,2009SHEP01,United Kingdom,2011
+Simon Westlund,2008WEST02,Sweden,2011
+Bálint Bodor,2008BODO01,Hungary,2011
+Oscar Roth Andersen,2008ANDE02,Denmark,2011
+Jules Desjardin,2010DESJ01,France,2011
+Oscar Roth Andersen,2008ANDE02,Denmark,2011
+Yohei Oka (岡要平),2006OKAY01,Japan,2011
+Dan Cohen,2007COHE01,USA,2011
+Mats Valk,2007VALK01,Netherlands,2011
+Takao Hashimoto (橋本貴夫),2007HASH01,Japan,2011
+Daniel Sheppard,2009SHEP01,United Kingdom,2011
+Javier Tirado Ortiz,2009TIRA01,Spain,2011
+Yu Sajima (佐島優),2008SAJI01,Japan,2011
+Feliks Zemdegs,2009ZEMD01,Australia,2011
+Dan Cohen,2007COHE01,USA,2011
+Bence Barát,2008BARA01,Hungary,2011
+Bence Barát,2008BARA01,Hungary,2011
+Kevin Hays,2009HAYS01,USA,2011
+Feliks Zemdegs,2009ZEMD01,Australia,2011
+Bálint Bodor,2008BODO01,Hungary,2011
+Cornelius Dieckmann,2009DIEC01,Germany,2011
+Máté Horváth,2007HORV01,Hungary,2011
+Máté Horváth,2007HORV01,Hungary,2011
+Yoshiaki Hirayama (平山善章),2007HIRA03,Japan,2011
+Milán Baticz,2005BATI01,Hungary,2011
+Aldo Feandri,2009FEAN01,Indonesia,2011
+Chris Hardwick,2003HARD01,USA,2011
+Simon Westlund,2008WEST02,Sweden,2011
+Chris Hardwick,2003HARD01,USA,2011
+Muhammad Iril Khairul Anam,2009ANAM01,Indonesia,2011
+Daniel Sheppard,2009SHEP01,United Kingdom,2011
+Feliks Zemdegs,2009ZEMD01,Australia,2013
+Mats Valk,2007VALK01,Netherlands,2013
+Sebastian Weyer,2010WEYE02,Germany,2013
+Cameron Stollery,2010STOL01,Australia,2013
+Michał Pleskowicz,2009PLES01,Poland,2013
+Mats Valk,2007VALK01,Netherlands,2013
+Feliks Zemdegs,2009ZEMD01,Australia,2013
+Sebastian Weyer,2010WEYE02,Germany,2013
+Mats Valk,2007VALK01,Netherlands,2013
+Kevin Hays,2009HAYS01,USA,2013
+Feliks Zemdegs,2009ZEMD01,Australia,2013
+Jong-Ho Jeong (정종호),2008JONG03,Korea,2013
+Kevin Hays,2009HAYS01,USA,2013
+Yi Seung-Woo (이승우),2007SEUN04,Korea,2013
+Michał Halczuk,2006HALC01,Poland,2013
+Kevin Hays,2009HAYS01,USA,2013
+Bence Barát,2008BARA01,Hungary,2013
+Feliks Zemdegs,2009ZEMD01,Australia,2013
+Deven Nadudvari,2008NADU01,USA,2013
+Evan Liu,2009LIUE01,USA,2013
+Daniel Sheppard,2009SHEP01,United Kingdom,2013
+Simon Westlund,2008WEST02,Sweden,2013
+Louis Cormier,2010CORM02,Canada,2013
+Chris Wall,2011WALL02,United Kingdom,2013
+Drew Brads,2010BRAD01,USA,2013
+Oscar Roth Andersen,2008ANDE02,Denmark,2013
+Daniel Wu,2010WUDA01,USA,2013
+Ruzhen Ye (叶儒臻),2009YERU01,China,2013
+Nathan Dwyer,2011DWYE02,USA,2013
+Michał Halczuk,2006HALC01,Poland,2013
+Feliks Zemdegs,2009ZEMD01,Australia,2013
+Michał Pleskowicz,2009PLES01,Poland,2013
+Weston Mizumoto,2008MIZU01,USA,2013
+Steven Xu,2007XUST01,USA,2013
+Devin Corr-Robinett,2006CORR01,USA,2013
+Sébastien Auroux,2008AURO01,Germany,2013
+Marcell Endrey,2007ENDR01,Hungary,2013
+Gabriel Alejandro Orozco Casillas,2008CASI01,Mexico,2013
+Marcin Zalewski,2011ZALE02,Poland,2013
+Marcell Endrey,2007ENDR01,Hungary,2013
+Marcin Zalewski,2011ZALE02,Poland,2013
+Noah Arthurs,2012ARTH01,USA,2013
+Marcell Endrey,2007ENDR01,Hungary,2013
+Zane Carney,2010CARN01,Australia,2013
+Julian David,2010DAVI06,Canada,2013
+Marcell Endrey,2007ENDR01,Hungary,2013
+Tim Wong,2007WONG02,USA,2013
+Noah Arthurs,2012ARTH01,USA,2013
+Dror Vomberg,2003VOMB01,Israel,2003
+Feliks Zemdegs,2009ZEMD01,Australia,2015
+Anthony Brooks,2008SEAR01,USA,2015
+Jayden McNeill,2012MCNE01,Australia,2015
+Feliks Zemdegs,2009ZEMD01,Australia,2015
+Mats Valk,2007VALK01,Netherlands,2015
+Jakub Kipa,2010KIPA01,Poland,2015
+Linus Frész,2011FRES01,Germany,2015
+Taku Yanai (矢内拓),2012YANA01,Japan,2015
+Noah Arthurs,2012ARTH01,USA,2015
+Jules Desjardin,2010DESJ01,France,2015
+Jakub Kipa,2010KIPA01,Poland,2015
+Reto Bubendorf,2012BUBE01,Switzerland,2015
+Kevin Hays,2009HAYS01,USA,2015
+Feliks Zemdegs,2009ZEMD01,Australia,2015
+Pedro Alejandro Condo Tellez,2015TELL01,Peru,2015
+Niko Ronkainen,2010RONK01,Finland,2015
+Daniel Wallin,2013WALL03,Sweden,2015
+Sébastien Auroux,2008AURO01,Germany,2015
+Gabriel Pereira Campanha,2012CAMP03,Brazil,2015
+Jakub Kipa,2010KIPA01,Poland,2015
+Yuhei Takagi (高木佑平),2008TAKA01,Japan,2015
+Oscar Roth Andersen,2008ANDE02,Denmark,2015
+Feliks Zemdegs,2009ZEMD01,Australia,2015
+Felipe Rueda Hernández,2012HERN03,Colombia,2015
+Kabyanil Talukdar,2013TALU01,India,2015
+Noah Arthurs,2012ARTH01,USA,2015
+Roberto Antonio Ocmin Baráybar,2011BARA01,Peru,2015
+Noah Arthurs,2012ARTH01,USA,2015
+Jan Bentlage,2010BENT01,Germany,2015
+Gianfranco Huanqui,2013HUAN29,Peru,2015
+Gabriel Dechichi Barbar,2009BARB01,Brazil,2015
+Tomas Kristiansson,2007KRIS01,Sweden,2015
+Roberto Antonio Ocmin Baráybar,2011BARA01,Peru,2015
+Kevin Hays,2009HAYS01,USA,2015
+Feliks Zemdegs,2009ZEMD01,Australia,2015
+Wilhelm Kilders,2010KILD02,Germany,2015
+Emanuel Rheinert,2011RHEI01,Germany,2015
+Daniel Wallin,2013WALL03,Sweden,2015
+Kou Oobatake (大畠功),2007OOBA01,Japan,2015
+João Pedro Batista Ribeiro Costa,2013COST02,Brazil,2015
+Jan Bentlage,2010BENT01,Germany,2015
+Emanuel Rheinert,2011RHEI01,Germany,2015
+Feliks Zemdegs,2009ZEMD01,Australia,2015
+Pedro Roque,2012ROQU01,Brazil,2015
+Jong-Ho Jeong (정종호),2008JONG03,Korea,2015
+Daniel Wallin,2013WALL03,Sweden,2015
+Jayden McNeill,2012MCNE01,Australia,2015
+Anthony Lafourcade,2014LAFO01,France,2015
+Feliks Zemdegs,2009ZEMD01,Australia,2015
+Kevin Hays,2009HAYS01,USA,2015
+Breandan Vallance,2007VALL01,United Kingdom,2015
+Feliks Zemdegs,2009ZEMD01,Australia,2015
+Michał Pleskowicz,2009PLES01,Poland,2015
+Antoine Cantin,2010CANT02,Canada,2015
+Antonie Paterakis,2012PATE01,Greece,2017
+Christopher Olson,2009OLSO01,USA,2017
+Daniel Karnaukh,2014KARN02,USA,2017
+Daniel Rose-Levine,2015ROSE01,USA,2017
+Evan Liu,2009LIUE01,USA,2017
+Feliks Zemdegs,2009ZEMD01,Australia,2017
+Feliks Zemdegs,2009ZEMD01,Australia,2017
+Feliks Zemdegs,2009ZEMD01,Australia,2017
+Firstian Fushada (符逢城),2015FUSH01,Indonesia,2017
+Henri Gerber,2014GERB01,Germany,2017
+Jakub Kipa,2010KIPA01,Poland,2017
+Jan Zych,2014ZYCH01,Poland,2017
+Jayden McNeill,2012MCNE01,Australia,2017
+Juan Pablo Huanqui,2013HUAN30,Peru,2017
+Lucas Etter,2011ETTE01,USA,2017
+Marcel Peters,2012PETE03,Germany,2017
+Mats Valk,2007VALK01,Netherlands,2017
+Max Park,2012PARK03,USA,2017
+Max Park,2012PARK03,USA,2017
+Max Park,2012PARK03,USA,2017
+Maxence Baudry,2014BAUD02,France,2017
+Michał Rzewuski,2014RZEW01,Poland,2017
+Nathaniel Berg,2012BERG04,Sweden,2017
+Oliver Frost,2012FROS01,United Kingdom,2017
+Oscar Roth Andersen,2008ANDE02,Denmark,2017
+Roman Strakhov,2012STRA02,Russia,2017
+Sebastiano Tronto,2011TRON02,Italy,2017
+Seung Hyuk Nahm (남승혁),2013NAHM01,Korea,2017
+Seung Hyuk Nahm (남승혁),2013NAHM01,Korea,2017
+Tom Nelson,2013NELS01,New Zealand,2017
+Wojciech Knott,2011KNOT01,Poland,2017
+Wojciech Knott,2011KNOT01,Poland,2017
+Łukasz Burliga,2013BURL01,Poland,2017
+Aniket Das,2015DASA02,India,2017
+Bill Wang,2010WANG68,Canada,2017
+Bill Wang,2010WANG68,Canada,2017
+Drew Brads,2010BRAD01,USA,2017
+Feliks Zemdegs,2009ZEMD01,Australia,2017
+Feliks Zemdegs,2009ZEMD01,Australia,2017
+Feliks Zemdegs,2009ZEMD01,Australia,2017
+Grzegorz Jałocha,2012JALO01,Poland,2017
+Ishaan Agrawal,2015AGRA03,USA,2017
+Kevin Hays,2009HAYS01,USA,2017
+Kevin Hays,2009HAYS01,USA,2017
+Lucas Wesche,2012WESC01,Germany,2017
+Marcin Kowalczyk,2011KOWA01,Poland,2017
+Max Park,2012PARK03,USA,2017
+Roman Strakhov,2012STRA02,Russia,2017
+Sebastian Weyer,2010WEYE02,Germany,2017
+William Phommaha,2015PHOM01,France,2017
+Yulun Wu (吴宇伦),2010WUYU02,China,2017
+Lim Hung (林弘),2016HUNG08,Malaysia,2019
+Mohammed Aiman Koli,2017KOLI01,India,2019
+Henri Gerber,2014GERB01,Germany,2019
+Christopher Chi,2014CHIC01,USA,2019
+Firstian Fushada (符逢城),2015FUSH01,Indonesia,2019
+Jan Bentlage,2010BENT01,Germany,2019
+Sebastiano Tronto,2011TRON02,Italy,2019
+Juan Pablo Huanqui,2013HUAN30,Peru,2019
+Amos Nordman,2014NORD02,Finland,2019
+Yunliang Zhang (张赟量),2016ZHAN45,China,2019
+Stanley Chapel,2016CHAP04,USA,2019
+Graham Siggins,2016SIGG01,USA,2019
+Kaijun Lin (林恺俊),2013LINK01,China,2019
+Max Park,2012PARK03,USA,2019
+Ciarán Beahan,2012BEAH01,Ireland,2019
+Seung Hyuk Nahm (남승혁),2013NAHM01,Korea,2019
+Noriyuki Okada (岡田典之),2014OKAD01,Japan,2019
+Zongyang Li (李宗阳),2013LIZO01,China,2019
+Carlos Méndez García-Barroso,2010GARC02,Spain,2019
+Graham Siggins,2016SIGG01,USA,2019
+Mark Boyanowski,2014BOYA01,USA,2019
+Shivam Bansal,2011BANS02,India,2019
+Yunhao Lou (娄云皓),2017LOUY01,China,2019
+Tairan Zhong (钟泰然),2013ZHON04,China,2019
+Zijia Feng (冯子甲),2013FENG02,China,2019
+Tymon Kolasiński,2016KOLA02,Poland,2019
+Dominik Górny,2015GORN01,Poland,2019
+Elvin Thorsen,2016THOR08,Sweden,2019
+Max Park,2012PARK03,USA,2019
+Sebastian Weyer,2010WEYE02,Germany,2019
+Seung Hyuk Nahm (남승혁),2013NAHM01,Korea,2019
+Max Park,2012PARK03,USA,2019
+Seung Hyuk Nahm (남승혁),2013NAHM01,Korea,2019
+Feliks Zemdegs,2009ZEMD01,Australia,2019
+Max Park,2012PARK03,USA,2019
+Patrick Ponce,2012PONC02,USA,2019
+Juliette Sébastien,2014SEBA01,France,2019
+Philipp Weyer,2010WEYE01,Germany,2019
+Sean Patrick Villanueva,2017VILL41,Philippines,2019
+Sebastian Weyer,2010WEYE02,Germany,2019
+Max Park,2012PARK03,USA,2019
+Kevin Hays,2009HAYS01,USA,2019
+Ciarán Beahan,2012BEAH01,Ireland,2019
+Aiden Bartlett,2015BART05,USA,2019
+Makoto Takaoka (高岡誠),2013TAKA02,Japan,2019
+Daniel Karnaukh,2014KARN02,USA,2019
+Stanley Chapel,2016CHAP04,USA,2019
+Bill Wang,2010WANG68,Canada,2019
+Neel Gore,2016GORE02,USA,2019
+Manuel Gutman,2017GUTM01,Argentina,2019
+Gianfranco Huanqui,2013HUAN29,Peru,2019
+Stanley Chapel,2016CHAP04,USA,2019
+Jiazhou Li (李佳洲),2016LIJI05,China,2019
+Antonie Paterakis,2012PATE01,Greece,2019
+Zayn Khanani,2018KHAN28,USA,2019
